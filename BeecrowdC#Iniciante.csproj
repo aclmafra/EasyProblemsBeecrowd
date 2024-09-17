@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>BeecrowdC_Iniciante</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <StartupObject>BeecrowdC_Iniciante.P1_1000_1037._1037Intervalo</StartupObject>
+  </PropertyGroup>
+
+</Project>
